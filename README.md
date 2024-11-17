@@ -17,20 +17,20 @@ Project: To-DO List WebApp with Advanced Features
 Develop a simple yet professional To-Do List application to help users manage their tasks effectively with features like task animations, sorting, and status tracking.
 
 **Key Activities**
-Built a sleek and responsive user interface with modern design principles.
-Added task animations for smooth addition and removal transitions.
-Implemented sorting by due date and priority for better task organization.
-Integrated status tracking (completed/pending) to easily manage tasks.
-Designed a lightweight, intuitive UX for quick and hassle-free task management.
+ - Built a sleek and responsive user interface with modern design principles.
+ - Added task animations for smooth addition and removal transitions.
+ - Implemented sorting by due date and priority for better task organization.
+ - Integrated status tracking (completed/pending) to easily manage tasks.
+ - Designed a lightweight, intuitive UX for quick and hassle-free task management.
 
 **Technologies Used**
-Frontend: HTML5, CSS3, JavaScript
-Hosting: GitHub
+ - Frontend: HTML5, CSS3, JavaScript
+ - Hosting: GitHub
 
 **Key Insights**
-Focused on creating a visually appealing UI to enhance user engagement.
-Task animations made interactions more dynamic and enjoyable for users.
-Sorting and status tracking features improved the app’s overall functionality and usability.
-Crafted a responsive design that works seamlessly across all devices.
+ - Focused on creating a visually appealing UI to enhance user engagement.
+ - Task animations made interactions more dynamic and enjoyable for users.
+ - Sorting and status tracking features improved the app’s overall functionality and usability.
+ - Crafted a responsive design that works seamlessly across all devices.
 
 
