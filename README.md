@@ -1,14 +1,14 @@
-Name: SACHIN KUMAR
-Company: CODTECH IT SOLUTIONS
-ID: CT08DS9399
-Domain: WEB DEVELOPMENT
-Duration: OCTOBER to NOVEMBER 2024
-Mentor: 
+Name: SACHIN KUMAR<br>
+Company: CODTECH IT SOLUTIONS<br>
+ID: CT08DS9399<br>
+Domain: WEB DEVELOPMENT<br>
+Duration: OCTOBER to NOVEMBER 2024<br>
+Mentor: <br>
 
 
 **OVERVIEW OF THE PROJECT **
 
-Project: To-DO List WebApp with Advanced Features 
+**Project:** To-DO List WebApp with Advanced Features 
 
  ![Image Alt](https://github.com/Sachin-701/CODTECH---Task-1-To-Do-List-/blob/main/Screenshot.png?raw=true)
 
