@@ -6,7 +6,8 @@ Duration: OCTOBER to NOVEMBER 2024<br>
 Mentor: <br>
 
 
-**OVERVIEW OF THE PROJECT **
+**OVERVIEW OF THE PROJECT**
+---
 
 **Project:** To-DO List WebApp with Advanced Features 
 
